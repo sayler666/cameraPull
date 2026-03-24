@@ -1,0 +1,11 @@
+[project]
+name = "camerapull"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "comtypes>=1.4.16",
+    "questionary>=2.1.0",
+    "rich>=13.9.0",
+]
