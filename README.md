@@ -1,6 +1,8 @@
 # Camera Pull
 
-Fetch photos and videos from a Fujifilm camera connected via USB — works with any Fujifilm model (X-S10, X-T5, X100VI, GFX, etc.) and likely other brands too.
+Fetch photos and videos from a Fujifilm camera connected via USB — should work with any Fujifilm model (X-S10, X-T5, X100VI, GFX, etc.).
+
+![Demo](res/demo.gif)
 
 ## Features
 

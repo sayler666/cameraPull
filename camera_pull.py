@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Camera Pull - Fetch images from Fujifilm X-S10 via USB.
+Camera Pull - Fetch images from Fujifilm camera via USB.
 
 Supports two camera USB modes:
   - MTP (default): camera shows as 'Digital Camera' in Windows — no extra setup
